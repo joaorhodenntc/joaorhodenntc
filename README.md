@@ -1,8 +1,5 @@
 
 
-<!-- about -->
-<h1>about me</h1>
-
 
 <!-- find me -->
 <h2>find me</h2>
