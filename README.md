@@ -2,7 +2,6 @@
 
 
 <!-- find me -->
-<p>
   <h1> Find me </h1>
   <a href="https://www.instagram.com/_joaorhoden/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
