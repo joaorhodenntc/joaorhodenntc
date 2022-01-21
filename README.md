@@ -22,4 +22,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorhodenntc&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 
 
-
+[dark_repo]: https://github-readme-stats.vercel.app/api/pin/?joaorhodenntc=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dark
