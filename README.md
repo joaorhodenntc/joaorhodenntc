@@ -2,12 +2,7 @@
 
 
 <!-- find me -->
-  <h1> Find me </h1>
-  <style>
-<h1> {
-       color: red;
-}
-</style>
+  <h1> <style> color:red Find me </style> </h1>
   <a href="https://www.instagram.com/_joaorhoden/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
