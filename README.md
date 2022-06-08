@@ -19,3 +19,4 @@
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorhodenntc&show_icons=true&theme=dracula&line_height=27" alt="**JOAO RHODEN** github stats"/>
 
+![IMG_7352](https://user-images.githubusercontent.com/86614864/172678006-e38418da-c0ce-4cf1-a40f-b692044e26ff.PNG)
